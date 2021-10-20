@@ -1,2 +1,3 @@
 # Calender-Project
-Code that creates a calender per month for a year.
+Coding program that creates a monthly calender for the year.
+Asks the user for year and month and displays the month as a calender.
